@@ -1,4 +1,4 @@
-package sample;
+package tomars;
 
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
